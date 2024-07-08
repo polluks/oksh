@@ -73,6 +73,8 @@ Packages
 In addition, there are some unofficial packages:
 * [Ubuntu PPA](https://launchpad.net/~dysfunctionalprogramming/+archive/ubuntu/oksh)
 * [Debian](https://software.opensuse.org//download.html?project=home%3AHead_on_a_Stick%3Aoksh&package=oksh)
+* [MacPorts](https://ports.macports.org/port/oksh/)
+* [Homebrew](https://formulae.brew.sh/formula/oksh)
 
 Using a package not listed here? Add it and send a pull request!
 
